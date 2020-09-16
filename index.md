@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>UFifty50.github.io</title>
-    </head>
+# UFifty50.github.io
     <body>
         <h1>Links</h1>
         <a href="https://ufifty50.github.io/home">Home</a>
