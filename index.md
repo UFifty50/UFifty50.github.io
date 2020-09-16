@@ -1,5 +1,3 @@
-# UFifty50.github.io
-
 <html>
     <head>
         <title>UFifty50.github.io</title>
